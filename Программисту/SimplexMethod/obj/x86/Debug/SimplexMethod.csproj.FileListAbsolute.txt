@@ -1,0 +1,17 @@
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\obj\x86\Debug\SimplexMethod.Form1.resources
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\obj\x86\Debug\SimplexMethod.Properties.Resources.resources
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\obj\x86\Debug\SimplexMethod.exe
+C:\Users\пк\AppData\Local\Temporary Projects\SimplexMethod\obj\x86\Debug\SimplexMethod.pdb
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\obj\x86\Debug\SimplexMethod.exe
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\obj\x86\Debug\SimplexMethod.pdb
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.exe
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\bin\Debug\SimplexMethod.pdb
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\obj\x86\Debug\SimplexMethod.Properties.Resources.resources
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\obj\x86\Debug\SimplexMethod.csproj.GenerateResource.Cache
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\obj\x86\Debug\SimplexMethod.csprojResolveAssemblyReference.cache
+C:\Doc\1.учеба\5 семестр\типис\SimplexMethod\SimplexMethod\obj\x86\Debug\SimplexMethod.FormSimplex.resources
